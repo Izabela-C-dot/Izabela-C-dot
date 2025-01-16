@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Izabela Carpenter
+Pronouns: they/them
 <!--
 **Izabela-C-dot/Izabela-C-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
